@@ -1,0 +1,27 @@
+# variaveis
+
+
+# int (integer/inteiros)
+
+x = 10
+print(type(x))
+
+y = 100.0
+print(type(y))
+
+
+print(10 + 20.0)
+
+z = x + y
+print(z)
+
+print(type(z))
+int(z)
+print(type(z))
+
+
+
+
+
+
+
