@@ -1,1 +1,20 @@
-capt 04
+Aula 01 - 11/05
+===============
+* Fizemos a instalação do Python - página 21
+* Fizemos a instalação do Sublime Text 3 - página 26
+
+- Variáveis
+- Listas
+- identação de código
+- uso de aspas
+- comentários
+- atribuição simples e múltipla de valores a variáveis
+- função print
+- função id
+- função len
+- função type
+
+
+-ATIVIDADE: cadastro_pessoa_fisica.py
+
+- PARAMOS: pág 42 - Cap 04 - Tipos Variáveis

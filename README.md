@@ -40,8 +40,6 @@ Trilha Python
 ![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/trilha_Python.png)
 
 
-
-
 Contatos:
 --------- 
 atendimento@floripacodegurus.com.br
