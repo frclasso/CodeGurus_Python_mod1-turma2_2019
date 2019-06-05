@@ -1,4 +1,4 @@
-Aula 01 - 11/05
+Aula 01 - 11/05  -- Faltou energia
 ===============
 * Fizemos a instalação do Python - página 21
 * Fizemos a instalação do Sublime Text 3 - página 26
@@ -18,3 +18,24 @@ Aula 01 - 11/05
 -ATIVIDADE: cadastro_pessoa_fisica.py
 
 - PARAMOS: pág 42 - Cap 04 - Tipos Variáveis
+
+Aula 01 - reposicao - 18/05
+==========================
+Variaveis compostas: sets, listas, dicionarios, tuplas
+
+Aula 03 - 25/05
+===============
+Operadores logicos, membros, matematicos, booleanos,
+
+Aula 04 - 01/06
+===============
+Estrutras de decisao
+Estruturas de repeticao
+Introducao a interfaces graficas com Tkinter
+
+Aula 05 - 08/05
+===============
+Interfaces graficas com Tkinter
+
+
+
