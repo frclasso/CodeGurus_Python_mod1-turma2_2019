@@ -6,17 +6,7 @@ print(" Programa de calculo de IMC")
 print('-'*79)
 
 dados_temp =[]
-
-
-def menu():
-    menu = int(input("""
-            1 - Para inserir novo cadastro;
-            2 - Listar cadastro atual;
-            3 - Banco de dados anterior;
-            4 - Salvar dados atuais;
-            0 - Para sair do programa
-                """))
-    return menu
+menu =''
 
 def insere_dados():
     print('Inserindo novo cadastro')
@@ -58,20 +48,27 @@ def salvar_Dados():
 
 
 def sair():
-    print('saindo')
+    print('Programa finalizado.')
 
-saida = menu()
-while saida != 0:
-    if saida == 1:
+
+while menu != 0:
+    menu = int(input("""
+                1 - Para inserir novo cadastro;
+                2 - Listar cadastro atual;
+                3 - Banco de dados anterior;
+                4 - Salvar dados atuais;
+                0 - Para sair do programa
+                    """))
+    if menu == 1:
         insere_dados()
-        menu()
-    elif saida == 2:
+    elif menu == 2:
         listar_cadastro_atual()
-    elif saida == 3:
+    elif menu == 3:
         visualizar_dados_anteriores()
-    elif saida == 4:
+    elif menu == 4:
         salvar_Dados()
-    elif saida == 0:
+    elif menu == 0:
         sair()
     else:
         print('Opcao encontrada')
+
