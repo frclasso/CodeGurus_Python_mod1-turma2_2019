@@ -37,5 +37,11 @@ Aula 04 - 08/05
 ===============
 Interfaces graficas com Tkinter
 
+Aula 05 - 15/06
+===============
+Cap 14 - Funções
+
+
+
 
 
