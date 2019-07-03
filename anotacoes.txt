@@ -35,12 +35,28 @@ Introducao a interfaces graficas com Tkinter
 
 Aula 04 - 08/05
 ===============
-Interfaces graficas com Tkinter
+Interfaces gráficas com Tkinter
 
 Aula 05 - 15/06
 ===============
 Cap 14 - Funções
 
+
+Aula 06 - 22/06
+===============
+Cap 14 - Funcoes - continuação
+Cap 15 - Modulos
+Cap 16 - Arquivos
+
+Aula 07 - 29/06
+=======
+Cap 16 - Arquivos
+backup de imagens e manipulador de imagens - ok
+
+Aula 08 -
+========
+Programa de backup
+Listas - tuplas - dicionarios
 
 
 
