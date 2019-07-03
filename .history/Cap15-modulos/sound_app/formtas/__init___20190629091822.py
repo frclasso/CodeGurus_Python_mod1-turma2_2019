@@ -1,0 +1,1 @@
+#import aiffread, aiffwrite, auread, auwrite, waveread, wavewrite
