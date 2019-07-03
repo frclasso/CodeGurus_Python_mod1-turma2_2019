@@ -5,7 +5,7 @@ import os
 # print(os.getcwd())
 
 os.chdir('/home/fabio-gurus/Desktop/repositories/Floripa_code_gurus_repos/'
-         'CodeGurus_Python_mod1-turma2_2019/cap16-arquivos/folder1/imgs/'
+         'CodeGurus_Python_mod1-turma2_2019/Cap16-arquivos/folder1/imgs/'
          'back_up_imgs')
 
 
