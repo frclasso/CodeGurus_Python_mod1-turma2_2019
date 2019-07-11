@@ -26,6 +26,5 @@ for f in os.listdir():
     #print(numeros)
     numeros = numeros.strip()[1:]
     #print(numeros)
-
     novo_nome = '{}_{}_{}{}'.format(numeros,titulo, animal, extensao)
     print(novo_nome)

@@ -53,10 +53,18 @@ Aula 07 - 29/06
 Cap 16 - Arquivos
 backup de imagens e manipulador de imagens - ok
 
-Aula 08 -
+Aula 08 - 06/07
 ========
-Programa de backup
-Listas - tuplas - dicionarios
+numeros = ok
+strings - ok
+
+Aula 09
+========
+Listas - tuplas - dicionarios -datetime
+
+Cap16 - arquivos - Programa de backup
+Ler todo os tipos:txt, csv, xlsx, html, pdf
+
 
 
 

@@ -1,0 +1,1 @@
+# contrario de cripto.py - invertido
